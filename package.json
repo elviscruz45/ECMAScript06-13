@@ -1,0 +1,24 @@
+{
+  "name": "ecmascript01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviscruz45/ECMAScript01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviscruz45/ECMAScript01/issues"
+  },
+  "homepage": "https://github.com/elviscruz45/ECMAScript01#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
